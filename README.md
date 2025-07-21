@@ -1,4 +1,4 @@
-# Asthma Agentic Backend
+# Asthma Agentic Backend 🩺
 
 This backend service provides an API for question answering on asthma-related data via Google’s Gemini generative AI model. It uses FastAPI to expose a `/ask` endpoint where users can upload CSV data and submit questions for AI-powered answers.
 
